@@ -32,7 +32,9 @@ i could use just a single led or i could use a neopixel :wow:<br>
 i think for the led i could just give it power every x ms and put a resistor in front of it<br>
 after further research, i've decided to just use a single neopixel<br>
 time to go back to the schematic<br>
-**1 hour spent 😭**
+**1 hour spent 😭**<Br>
+![image](https://github.com/user-attachments/assets/9e1ceb6b-07de-433f-a93d-45f6c441fbab)
+
 
 June 13th, 2025 5:14 PM<br>
 i guess it's time to pcb all over the place<br>
