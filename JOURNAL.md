@@ -24,3 +24,15 @@ oops i had the times i spent written in obsidian but not here better add those i
 alr i got a somewhat coherent schematic together i'm going to sleep now<BR>
 **2 hours spent**<Br>
 ![image](https://github.com/user-attachments/assets/2f0a98d8-5abc-4798-82a3-cdeb3fe6c601)
+
+June 13th, 2025 12:04 PM<br>
+if you're reading the actual markdown for some reason i must apologize for the way i format this<br>
+so i want to put an led on here for visual feedback<br>
+i could use just a single led or i could use a neopixel :wow:<br>
+i think for the led i could just give it power every x ms and put a resistor in front of it<br>
+after further research, i've decided to just use a single neopixel<br>
+time to go back to the schematic<br>
+**1 hour spent 😭**
+
+June 13th, 2025 5:14 PM<br>
+i guess it's time to pcb all over the place<br>
