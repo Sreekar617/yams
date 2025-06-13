@@ -21,4 +21,6 @@ ohhhh now i know the difference between vsys, vbus, and 3v3<br>
 it's all wired in the schematic :yay:<br>
 now time to find a speaker that's loud and preferably not expensive (good cheap fast ahh)<br>
 oops i had the times i spent written in obsidian but not here better add those in<br>
-**2 hours spent**
+alr i got a somewhat coherent schematic together i'm going to sleep now<BR>
+**2 hours spent**<Br>
+![image](https://github.com/user-attachments/assets/2f0a98d8-5abc-4798-82a3-cdeb3fe6c601)
