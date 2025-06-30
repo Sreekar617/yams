@@ -36,5 +36,33 @@ time to go back to the schematic<br>
 ![image](https://github.com/user-attachments/assets/9e1ceb6b-07de-433f-a93d-45f6c441fbab)
 
 
-June 13th, 2025 5:14 PM<br>
+June 15th, 2025 4:30 PM<br>
 i guess it's time to pcb all over the place<br>
+nvm my schematic has issues<br>
+so i guess it's better to power oled with 3v3<br>
+and my neopicel wasn't connected to anything somehow<br>
+also i guess the buzzer should also use 3v3, honestly the buzzer is what i'm most worried about<br>
+schematic should be finished now, it looks so tuff<br>
+
+oh i guess the pins for the buzzer symbol don't match the ones on the footprint, i guess i should just reassign them<br>
+**2 hours spent**
+
+June 18th, 2025 1:12 PM<br>
+i fixed the buzzer and made a basic outline of how i want it on paper and on the pcb<Br>
+![alt text](imgs/pcb_v1.png)<Br>
+![alt text](imgs/epicsketch.png)<br>
+**1 hour spent**
+
+June 22nd, 6:32 PM<Br>
+got pcb outline finished and wired
+![alt text](imgs/pcb_v2_maybe_idk.png)
+**1 hour spent**
+
+June 29th, 7:30 PM<br>
+ok i should run git push i've been editing ts locally this whole time 😭<br>
+anyway i'm locking in now to make the case<br>
+okay i think it'll be more stable if i make a round cutout for the rotary encoder instead of just having it completely exposed<br>
+and i should also have a square border that is actually connected to the "plate" to give it some more stability<br>
+![alt text](imgs/case_v2.png)<br>
+wait i was going to sandwich mount it like a keyboard but i don't have mx switches, just a rotary encoder<br>
+how do i mount ts 😭<br>
