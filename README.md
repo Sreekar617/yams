@@ -26,3 +26,4 @@ BOM:
 | 11 | --         | --                                             | 5        | M3 Nuts               | Generic          | Buy locally                                                              |
 | 12 | --         | --                                             | 1        | Bottom Case           | Generic          | Print with Legion                                                        |
 | 13 | --         | --                                             | 1        | Top Case              | Generic          | Print with Legion                                                        |
+| 14 | --         | --                                             | 1        | PCB                   | JLCPCB           | Order from JLCPCB                                                        |
