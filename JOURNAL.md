@@ -88,3 +88,14 @@ the pcb is held up with supports at the bottom of the case. there's a "post" in 
 ![alt text](imgs/posts.png)  
 agh i forgot firmware see you tomorrow  
 **2 hours spent**
+
+## July 2st, 1:10 PM<br>
+okay firmware should be pretty simple. i think i can even get away with using qmk cause that's what i'm familiar with  
+ok so i am definitely not using qmk  
+after much research and docs reading, i think i got a probably working firmware:  
+![i aint reading allat](imgs/fw.png)  
+you change the bpm with the rotary encoder, and push on it to turn off the metronome  
+when a beat happens, the piezo buzzer chirps and the neopixel flashes  
+yeah that's pretty much it :heavysob:  
+thanks for reading make sure to like and subscribe  
+**3 hours spent**
