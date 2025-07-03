@@ -16,7 +16,7 @@ BOM:
 | 1  | D1         | LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm         | 1        | SK6812MINI            | C5149201         | https://jlcpcb.com/partdetail/OPSCOOptoelectronics-SK6812MINIE/C5149201  |
 | 2  | Q1         | SOT-23                                         | 1        | Q_NPN_BEC             | C2150            | https://jlcpcb.com/partdetail/2507-SS8050_RANGE_200_350/C2150            |
 | 3  | J1         | OLED_128x32                                    | 1        | OLED_128x32           | C5248081         | https://jlcpcb.com/partdetail/HS-HS91L02W2C01/C5248081                   |
-| 4  | SW1        | RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm | 1        | RotaryEncoder_Switch  | C202365          | https://jlcpcb.com/parts/2nd/Switches/Rotary_Encoders_3209               |
+| 4  | SW1        | RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm | 1        | RotaryEncoder_Switch  | C202365          | https://jlcpcb.com/partdetail/ALPSALPINE-EC11E18244AU/C202365            |
 | 5  | R1         | R_0603_1608Metric                              | 1        | 300Ω                  | C23025           | https://jlcpcb.com/partdetail/23752-0603WAF3000T5E/C23025                |
 | 6  | R2         | R_0603_1608Metric                              | 1        | 1000Ω                 | C51218           | https://jlcpcb.com/partdetail/52231-0603WAD1001T5E/C51218                |
 | 7  | U1         | XIAO-Generic-Hybrid-14P-2.54-21X17.8MM         | 1        | MOUDLE-SEEEDUINO-XIAO |                  | https://www.seeedstudio.com/XIAO-RP2040-v1-0-p-5026.html                 |
