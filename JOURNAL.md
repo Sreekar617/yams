@@ -4,6 +4,9 @@ author: "Sreekar Ramisetty"
 description: "Metronome with rotary encoder and OLED display"
 created_at: "2024-06-04"
 ---
+# total time: 18 hours
+
+
 ## June 4th, 2025, 6:32 PM<br>
 I have a vision for where I want to take this project, but since I have finals tomorrow i'll just get a basic schematic whipped up (i have no idea what i'm doing)<br>
 **literally like 30 seconds spent 😭**
@@ -86,12 +89,14 @@ so this is in two pieces, the bottom case and a top covering.
 there's a hole for the rotary encoder, and another hole on the side for power delivery to the xiao  
 the pcb is held up with supports at the bottom of the case. there's a "post" in each corner, plus one directly under the rotary   encoder and one approximately in the middle to screw into.  
 ![alt text](imgs/posts.png)  
-agh i forgot firmware see you tomorrow  
+agh i forgot about firmware see you tomorrow  
 **2 hours spent**
 
 ## July 2st, 1:10 PM<br>
 okay firmware should be pretty simple. i think i can even get away with using qmk cause that's what i'm familiar with  
 ok so i am definitely not using qmk  
+oh yeah i added a ground pour  
+![alt text](imgs/pcb_hopefullyfinal.png)  
 after much research and docs reading, i think i got a probably working firmware:  
 ![i aint reading allat](imgs/fw.png)  
 you change the bpm with the rotary encoder, and push on it to turn off the metronome  
