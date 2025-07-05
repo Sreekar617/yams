@@ -21,9 +21,9 @@ BOM:
 | 6  | R2         | R_0603_1608Metric                              | 1        | 1000Ω                 | C51218           | https://jlcpcb.com/partdetail/52231-0603WAD1001T5E/C51218                |
 | 7  | U1         | XIAO-Generic-Hybrid-14P-2.54-21X17.8MM         | 1        | MOUDLE-SEEEDUINO-XIAO |                  | https://www.seeedstudio.com/XIAO-RP2040-v1-0-p-5026.html                 |
 | 8  | LS1        | Buzzer_Murata_PKLCS1212E                       | 1        | PKLCS1212E4001-R1     | C113159          | https://jlcpcb.com/partdetail/MurataElectronics-PKLCS1212E4001R1/C113159 |
-| 9  | --         | --                                             | 4        | M3x20mm Screws        | Generic          | Buy locally                                                              |
-| 10 | --         | --                                             | 1        | M3x12mm Screw         | Generic          | Buy locally                                                              |
-| 11 | --         | --                                             | 5        | M3 Nuts               | Generic          | Buy locally                                                              |
+| 9  | --         | --                                             | 4        | M3x20mm Screws        | Generic          | Source locally                                                           |
+| 10 | --         | --                                             | 1        | M3x12mm Screw         | Generic          | Source locally                                                           |
+| 11 | --         | --                                             | 5        | M3 Nuts               | Generic          | Source locally                                                           |
 | 12 | --         | --                                             | 1        | Bottom Case           | Generic          | Print with Legion                                                        |
 | 13 | --         | --                                             | 1        | Top Case              | Generic          | Print with Legion                                                        |
 | 14 | --         | --                                             | 1        | PCB                   | JLCPCB           | Order from JLCPCB                                                        |
